@@ -1,0 +1,10 @@
+step1:start
+step2:read s the seat number entered
+step3:s not less than zero greaterthen 73
+step4:s%8 remainder equals(1,4) print lower berth
+step5:if remainder equals(2,5) print middile berth
+step6:if remainder equals(3,6) print upper berth
+step7:if remainder equals(7) print side lower berth
+step8:if remainder equals(0) print side upper berth
+step9:if s<0 or s>73 print invalid seat number
+step10:stop

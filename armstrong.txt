@@ -1,0 +1,12 @@
+Step1:start
+step2:set a lower limit
+step3:Enter a number
+step4:assign the number to a range
+step5:read the length of number
+step6:set sum=0 and temp=num 
+step7:if temp is greaterthan zero
+step8:find remainder and assign to digit
+step9:sum=+digit*len(order)
+step10:temp is divided by 10 until temp>0
+step11:if num=sum print the value num until the limit exist
+step12:stop
